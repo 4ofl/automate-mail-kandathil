@@ -5,10 +5,9 @@ const nodemailer = require("nodemailer");
 
 // ====================== CONFIG ======================
 const accounts = [
-	// { name: "Kandathil, John", email: "john@mxrn.lol" },
-	// { name: "Kandathil Group", email: "kandathil@mxrn.lol" },
-	// { name: "Kandathil Yohannan", email: "yohannan@mxrn.lol" },
-	{ name: "Aby", email: "aby@mxrn.lol" },
+	{ name: "Kandathil, John", email: "john@mxrn.lol" },
+	{ name: "Kandathil Group", email: "kandathil@mxrn.lol" },
+	{ name: "Kandathil, Yohannan", email: "yohannan@mxrn.lol" },
 ];
 
 const smtpConfig = {
