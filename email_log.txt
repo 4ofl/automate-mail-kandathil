@@ -1,0 +1,90 @@
+[INFO] All emails queued for sending
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to keralaenquiry@pothys.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to customerservice@kalyansilks.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to shop@seematti.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to customerservice@ril.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to zudio.rba@trent-tata.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to zudiohelp@trent-tata.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to eshop@nalli.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to customercare@jayalakshmi.in
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to help@maxfashion.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to westside@trent-tata.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to customercare@abfrl.adityabirla.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to westside.rba@trent-tata.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to support@soch.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to support@fabindia.net
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to contact.inditex@zara.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to customerservice.in@hm.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to customer-care@uniqlo.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to help@lifestylestores.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to customerservice.us@puma.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to care.india@decathlon.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to customerservice@puma.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to care.ae@malabargoldanddiamonds.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to info.india@skechers.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to b2bindia@joyalukkas.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to care@joyalukkas.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to info@kalyanjewellers.net
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to ecomsupport@titan.co.in
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to office@joscogroup.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to support@bhimagold.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to customercare@levi.in
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to info@lulu.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to shop@thangamayil.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to somasree.adhikari@rpsg.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to customercare.intl@malabargroup.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to care@thangamayil.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to hello@more.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to service@onlineshop.adidas.co.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to customercare@nilgiris1905.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to guestcaredominos@jublfood.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to info@bismigroup.net
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to wecare@popeyes.in
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to contact@burmanhospitality.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to customercare@tatastarbucks.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to partner@subway.in
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to contactus@caratlane.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to b2b@caratlane.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to information@barista.co.in
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to customercare@cafecoffeeday.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to leads.franchise@barista.co.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to guestcareindia@yum.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to info@mcdonaldsindia.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to distribution@barista.co.in
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to care@burgerking.in
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to reliancedigital@ril.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to feedback@gravissgroup.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to sales@myg.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to feedback@wowmomo.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to service@vivoglobal.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to support.in@oppo.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to onepluscare@oneplus.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to business.in@samsung.com
+[FAIL] Error sending from "John Varghese" <john@mxrn.lol> to support@imagineonline.store: read ECONNRESET
+[FAIL] Error sending from "Kandathil Group" <kandathil@mxrn.lol> to cs@titaneyeplus.com: read ECONNRESET
+[FAIL] Error sending from "John Varghese" <john@mxrn.lol> to support.india@samsung.com: read ECONNRESET
+[FAIL] Error sending from "Kandathil Group" <kandathil@mxrn.lol> to sales@uipl.co.in: read ECONNRESET
+[FAIL] Error sending from "John Varghese" <john@mxrn.lol> to info@ditsfurniture.com: connect ECONNABORTED 52.220.95.193:465
+[FAIL] Error sending from "Kandathil Group" <kandathil@mxrn.lol> to info@godrejinterio.com: connect ECONNABORTED 13.114.210.107:465
+[FAIL] Error sending from "Yohannan Varghese" <yohannan@mxrn.lol> to hello@urbanladder.com: read ECONNRESET
+[FAIL] Error sending from "John Varghese" <john@mxrn.lol> to cx-india@bata.com: read ECONNRESET
+[FAIL] Error sending from "Yohannan Varghese" <yohannan@mxrn.lol> to care@sleepwell.com: connect ECONNABORTED 13.114.210.107:465
+[FAIL] Error sending from "Yohannan Varghese" <yohannan@mxrn.lol> to bd@cafecoffeeday.com: read ECONNRESET
+[FAIL] Error sending from "Yohannan Varghese" <yohannan@mxrn.lol> to imagineonline.store@ample.co.in: read ECONNRESET
+[FAIL] Error sending from "Yohannan Varghese" <yohannan@mxrn.lol> to in-customer.service@bata.com: write ECONNRESET
+[FAIL] Error sending from "John Varghese" <john@mxrn.lol> to customercare@titan.co.in: write ECONNRESET
+[INFO] All emails queued for sending
+[FAIL] Error sending from "John Varghese" <john@mxrn.lol> to undefined: No recipients defined
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to support@imagineonline.store
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to cs@titaneyeplus.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to support.india@samsung.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to sales@uipl.co.in
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to info@ditsfurniture.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to info@godrejinterio.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to hello@urbanladder.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to cx-india@bata.com
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to care@sleepwell.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to bd@cafecoffeeday.com
+[SUCCESS] Sent from "John Varghese" <john@mxrn.lol> to imagineonline.store@ample.co.in
+[SUCCESS] Sent from "Kandathil Group" <kandathil@mxrn.lol> to in-customer.service@bata.com
+[SUCCESS] Sent from "Yohannan Varghese" <yohannan@mxrn.lol> to customercare@titan.co.in
